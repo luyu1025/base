@@ -1,6 +1,6 @@
 # my-app
 
-> A Vue.js project
+>vue+webpack, vue-router,vuex,vue-resource
 
 ## Build Setup
 
